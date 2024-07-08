@@ -5817,7 +5817,7 @@
                 "play_addr": {
                     "uri": "v0d00fg10000cp0tfcbc77uadabe93pg",
                     "url_list": [
-                        ""https://www.douyin.com/aweme/v1/play/?video_id=v0d00fg10000cp0tfcbc77uadabe93pg\u0026line=0\u0026file_id=435915b84fa34048becaa29eea8d4c8d\u0026sign=561e205dbfacac7ee962e63950c7a231\u0026is_play_url=1\u0026source=PackSourceEnum_PUBLISH"
+                        "https://www.douyin.com/aweme/v1/play/?video_id=v0d00fg10000cp0tfcbc77uadabe93pg\u0026line=0\u0026file_id=435915b84fa34048becaa29eea8d4c8d\u0026sign=561e205dbfacac7ee962e63950c7a231\u0026is_play_url=1\u0026source=PackSourceEnum_PUBLISH"
                     ],
                     "width": 1280,
                     "height": 720,
@@ -7525,7 +7525,7 @@
                         "play_addr": {
                             "uri": "v0200fg10000cp0dapbc77u5asfgl890",
                             "url_list": [
-                                ""https://www.douyin.com/aweme/v1/play/dash/?video_id=v0200fg10000cp0dapbc77u5asfgl890\u0026line=0\u0026file_id=80791e7d60d7445ead8547db6912852f\u0026sign=385e088501361f03180c66b2296b726c\u0026is_play_url=1\u0026source=PackSourceEnum_PUBLISH"
+                                "https://www.douyin.com/aweme/v1/play/dash/?video_id=v0200fg10000cp0dapbc77u5asfgl890\u0026line=0\u0026file_id=80791e7d60d7445ead8547db6912852f\u0026sign=385e088501361f03180c66b2296b726c\u0026is_play_url=1\u0026source=PackSourceEnum_PUBLISH"
                             ],
                             "width": 1920,
                             "height": 1080,
@@ -13149,7 +13149,7 @@
                 "play_addr": {
                     "uri": "v0300fg10000cl944e3c77u79gm8klg0",
                     "url_list": [
-                        ""https://www.douyin.com/aweme/v1/play/?video_id=v0300fg10000cl944e3c77u79gm8klg0\u0026line=0\u0026file_id=236fbbdff5c94dba8edd6c782d55eb40\u0026sign=0ac29c8f96f69b78dc8c4501bc131674\u0026is_play_url=1\u0026source=PackSourceEnum_PUBLISH"
+                        "https://www.douyin.com/aweme/v1/play/?video_id=v0300fg10000cl944e3c77u79gm8klg0\u0026line=0\u0026file_id=236fbbdff5c94dba8edd6c782d55eb40\u0026sign=0ac29c8f96f69b78dc8c4501bc131674\u0026is_play_url=1\u0026source=PackSourceEnum_PUBLISH"
                     ],
                     "width": 1280,
                     "height": 720,
